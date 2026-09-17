@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>CTRL CLUB</title>
+  <rect width="64" height="64" rx="6" fill="#111111" />
+  <path d="M40 18H22V46H40M46 18V46H54" stroke="#ffffff" stroke-width="6" stroke-linejoin="miter" />
+</svg>
