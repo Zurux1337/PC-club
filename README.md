@@ -24,7 +24,7 @@
 
 ## Дизайн
 
-- Стиль: [`styles/references/defy.md`](../.opencode/skills/styles/references/defy.md) —
+- Стиль: `defy` (библиотека портфолио, `styles/references/defy.md`) —
   чёрный фон `#111`, лайм `#b7ff2c` только на действиях, радиус 6px,
   без градиентов и «свечения ради свечения».
 - Шрифты: Oswald (заголовки), Golos Text (текст).
